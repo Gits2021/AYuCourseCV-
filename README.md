@@ -1,1 +1,2 @@
-# AYuCourseCV-
+# AYuCourseCV- 
+permalink/index.html
